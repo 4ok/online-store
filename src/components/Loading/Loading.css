@@ -1,0 +1,11 @@
+.Loading {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	height: 100%;
+}
+
+.Loading .ant-spin-dot i {
+	background: var(--brand-color-yellow);
+}

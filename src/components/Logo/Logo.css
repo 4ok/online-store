@@ -1,0 +1,44 @@
+.Logo {
+	font-size: 2rem /* 32/16 */;
+	font-weight: 600;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	user-select: none;
+
+	letter-spacing: .125rem /* 2/16 */;
+	text-transform: lowercase;
+
+	color: #fff;
+}
+
+div.Logo {
+	cursor: default;
+}
+
+a.Logo {
+	cursor: pointer;
+
+	text-decoration: none;
+}
+
+a.Logo:hover {
+	color: #fff;
+}
+
+.Logo__icon {
+	height: 2.5rem /* 40/16 */;
+	margin-right: 1rem /* 16/16 */;
+}
+
+@media (--phone) {
+	.Logo {
+		font-size: 1.75rem /* 28/16 */;
+	}
+
+	.Logo__icon {
+		margin-right: .6rem /* 8/16 */;
+	}
+}

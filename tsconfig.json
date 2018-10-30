@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"noImplicitAny": true,
+		"lib": ["es5", "es6", "dom"],
+		"target": "es5",
+		"sourceMap": true
+	}
+}

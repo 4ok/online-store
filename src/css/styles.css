@@ -1,0 +1,13 @@
+body {
+	font-family: Circe, Helvetica, Arial, sans-serif;
+}
+
+body .ant-message {
+	top: 4.625rem /* 74/16 */;
+}
+
+@media (--mobile) {
+	body .ant-message {
+		top: 8.625rem /* 138/16 */;
+	}
+}

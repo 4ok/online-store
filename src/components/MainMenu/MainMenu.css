@@ -1,0 +1,24 @@
+.MainMenu {
+	font-size: .75rem /* 12/16 */;
+	font-weight: 300;
+
+	display: flex;
+	align-items: center;
+
+	text-transform: uppercase;
+
+	background: none;
+}
+
+.MainMenu__item.ant-menu-item {
+	line-height: 4rem /* 64/16 */;
+}
+
+.MainMenu .MainMenu__item.ant-menu-item-selected {
+	font-weight: 400;
+
+	cursor: default;
+
+	color: rgba(0, 0, 0, .6);
+	background-color: var(--brand-color-yellow);
+}

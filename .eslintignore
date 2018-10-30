@@ -1,0 +1,13 @@
+# Third party
+**/node_modules
+
+# Configs
+!.babelrc.js
+!.eslintrc.js
+
+# Build products
+build
+public
+
+# Generated files
+package-lock.json

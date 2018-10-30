@@ -1,0 +1,38 @@
+.CartLink {
+	font-size: 1rem /* 16/16 */;
+	justify-self: end;
+
+	margin-top: .875rem /* 14/16 */;
+
+	color: var(--dark-text-color-gray);
+}
+
+div.CartLink {
+	cursor: default;
+}
+
+a.CartLink {
+	cursor: pointer;
+
+	text-decoration: none;
+}
+
+a.CartLink:hover {
+	color: #fff;
+}
+
+.CartLink__icon {
+	font-size: 2rem /* 32/16 */;
+}
+
+.CartLink__text {
+	margin-left: .375rem /* 6/16 */;
+}
+
+div.CartLink .CartLink__text {
+	color: var(--brand-color-yellow);
+}
+
+.CartLink__badge .ant-badge-count {
+	box-shadow: 0 0 0 2px #ddd;
+}

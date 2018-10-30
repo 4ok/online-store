@@ -1,0 +1,96 @@
+{
+	"success": true,
+	"error": null,
+	"data": [
+		{
+			"id": 1,
+			"name": "Omega Men's",
+			"desc": "Analog Display Swiss Automatic Silver Watch",
+			"price": 1915,
+			"image": "images/catalog/watches/1-full.jpg",
+			"rate": 2.2,
+			"stock": 1
+		},
+		{
+			"id": 2,
+			"name": "Seiko Astron Giugiaro",
+			"desc": "Dual Strap Analogue Men's Watch",
+			"price": 327,
+			"image": "images/catalog/watches/2-full.jpg",
+			"rate": 4.1,
+			"stock": 20
+		},
+		{
+			"id": 3,
+			"name": "Suunto DX",
+			"desc": "Titanium Air/Nitrox/Helium Trimix Hoseless Dive Computer",
+			"price": 2304,
+			"image": "images/catalog/watches/3-full.jpg",
+			"rate": 2.8,
+			"stock": 8
+		},
+		{
+			"id": 4,
+			"name": "Mens Seiko Astron GPS",
+			"desc": "Solar World Time Rose Gold Titanium Limited Editionn",
+			"price": 296,
+			"image": "images/catalog/watches/4-full.jpg",
+			"rate": 3.4,
+			"stock": 2
+		},
+		{
+			"id": 5,
+			"name": "Fortis Men's",
+			"desc": "Tycoon Chronograph a.m. Analog Display Automatic Self Wind Brown Watch",
+			"price": 3280,
+			"image": "images/catalog/watches/5-full.jpg",
+			"rate": 4.4,
+			"stock": 1
+		},
+		{
+			"id": 6,
+			"name": "Seiko SSE111 Mens ASTRON GPS",
+			"desc": "Solar World Time Watch w/Date",
+			"price": 1278,
+			"image": "images/catalog/watches/6-full.jpg",
+			"rate": 4.8,
+			"stock": 17
+		},
+		{
+			"id": 7,
+			"name": "SISU Bravado A6 Swiss",
+			"desc": "Automatic Men's Watch, Black Dial, Black PVD Bracelet",
+			"price": 221,
+			"image": "images/catalog/watches/7-full.jpg",
+			"rate": 2.6,
+			"stock": 6
+		},
+		{
+			"id": 8,
+			"name": "Oris Analog Aviation",
+			"desc": "Big Crown Propilot Black Dial Men's Watch",
+			"price": 7199,
+			"image": "images/catalog/watches/8-full.jpg",
+			"rate": 3.4,
+			"stock": 5
+		},
+		{
+			"id": 9,
+			"name": "SEVENFRIDAY Japanese",
+			"desc": "Automatic Black Dial Men's Watch",
+			"price": 3199,
+			"image": "images/catalog/watches/9-full.jpg",
+			"rate": 5.0,
+			"stock": 11
+		},
+		{
+			"id": 10,
+			"name": "Alpina Analogue",
+			"desc": "Blue Dial Men's Watch",
+			"price": 8205,
+			"image": "images/catalog/watches/10-full.jpg",
+			"rate": 1.8,
+			"stock": 4
+		}
+	]
+}

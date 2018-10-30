@@ -1,0 +1,20 @@
+.Footer {
+	font-size: .75rem /* 12/16 */;
+	font-weight: 200;
+
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+
+	padding: 1rem /* 16/16 */ var(--content-padding-x);
+
+	color: #888;
+	background: rgba(0, 21, 43, .025);
+}
+
+@media (--phone) {
+	.Footer {
+		padding-right: 1rem /* 16/16 */ var(--phone-content-padding-x);
+		padding-left: 1rem /* 16/16 */ var(--phone-content-padding-x);
+	}
+}

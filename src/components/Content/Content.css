@@ -1,0 +1,18 @@
+.Content {
+	font-size: 1rem /* 16/16 */;
+	font-weight: 300;
+
+	width: 100%;
+	min-width: var(--content-min-width);
+	max-width: var(--content-max-width);
+	min-height: 18.75rem /* 300/16 */;
+	margin: 0 auto;
+	padding: 3rem /* 48/16 */ var(--content-padding-x);
+}
+
+@media (--phone) {
+	.Content {
+		padding-right: var(--phone-content-padding-x);
+		padding-left: var(--phone-content-padding-x);
+	}
+}

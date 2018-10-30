@@ -1,0 +1,25 @@
+.CartItem__image {
+	height: 5rem /* 80/16 */;
+	margin-right: 2rem /* 32/16 */;
+}
+
+.CartItem__product {
+	display: flex;
+	align-items: center;
+}
+
+.CartItem__text {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.CartItem__name {
+	font-weight: 400;
+}
+
+.CartItem__desc {
+	font-size: 1rem /* 16/16 */;
+
+	color: var(--text-color-gray);
+}

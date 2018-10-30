@@ -1,0 +1,22 @@
+.Layout {
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	grid-template-areas:
+		"header"
+		"content"
+		"footer";
+
+	min-height: 100vh;
+}
+
+.Layout__header {
+	grid-area: header;
+}
+
+.Layout__content {
+	grid-area: content;
+}
+
+.Layout__footer {
+	grid-area: footer;
+}

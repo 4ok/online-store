@@ -1,0 +1,13 @@
+.Catalog {
+	display: flex;
+	flex-direction: column;
+
+	height: 100%;
+}
+
+.Catalog__items {
+	display: flex;
+	flex-wrap: wrap;
+
+	margin: -.625rem /* 10/16 */;
+}
