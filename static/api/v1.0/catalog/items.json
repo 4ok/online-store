@@ -7,90 +7,130 @@
 			"name": "Omega Men's",
 			"desc": "Analog Display Swiss Automatic Silver Watch",
 			"price": 1915,
-			"image": "images/catalog/watches/1-full.jpg",
 			"rate": 2.2,
-			"stock": 1
+			"stock": 1,
+			"images": {
+				"full": "images/catalog/watches/1-full.jpg",
+				"medium": "images/catalog/watches/1-medium.jpg",
+				"small": "images/catalog/watches/1-small.jpg"
+			}
 		},
 		{
 			"id": 2,
 			"name": "Seiko Astron Giugiaro",
 			"desc": "Dual Strap Analogue Men's Watch",
 			"price": 327,
-			"image": "images/catalog/watches/2-full.jpg",
 			"rate": 4.1,
-			"stock": 20
+			"stock": 20,
+			"images": {
+				"full": "images/catalog/watches/2-full.jpg",
+				"medium": "images/catalog/watches/2-medium.jpg",
+				"small": "images/catalog/watches/2-small.jpg"
+			}
 		},
 		{
 			"id": 3,
 			"name": "Suunto DX",
 			"desc": "Titanium Air/Nitrox/Helium Trimix Hoseless Dive Computer",
 			"price": 2304,
-			"image": "images/catalog/watches/3-full.jpg",
 			"rate": 2.8,
-			"stock": 8
+			"stock": 8,
+			"images": {
+				"full": "images/catalog/watches/3-full.jpg",
+				"medium": "images/catalog/watches/3-medium.jpg",
+				"small": "images/catalog/watches/3-small.jpg"
+			}
 		},
 		{
 			"id": 4,
 			"name": "Mens Seiko Astron GPS",
 			"desc": "Solar World Time Rose Gold Titanium Limited Editionn",
 			"price": 296,
-			"image": "images/catalog/watches/4-full.jpg",
 			"rate": 3.4,
-			"stock": 2
+			"stock": 2,
+			"images": {
+				"full": "images/catalog/watches/4-full.jpg",
+				"medium": "images/catalog/watches/4-medium.jpg",
+				"small": "images/catalog/watches/4-small.jpg"
+			}
 		},
 		{
 			"id": 5,
 			"name": "Fortis Men's",
 			"desc": "Tycoon Chronograph a.m. Analog Display Automatic Self Wind Brown Watch",
 			"price": 3280,
-			"image": "images/catalog/watches/5-full.jpg",
 			"rate": 4.4,
-			"stock": 1
+			"stock": 1,
+			"images": {
+				"full": "images/catalog/watches/5-full.jpg",
+				"medium": "images/catalog/watches/5-medium.jpg",
+				"small": "images/catalog/watches/5-small.jpg"
+			}
 		},
 		{
 			"id": 6,
 			"name": "Seiko SSE111 Mens ASTRON GPS",
 			"desc": "Solar World Time Watch w/Date",
 			"price": 1278,
-			"image": "images/catalog/watches/6-full.jpg",
 			"rate": 4.8,
-			"stock": 17
+			"stock": 17,
+			"images": {
+				"full": "images/catalog/watches/6-full.jpg",
+				"medium": "images/catalog/watches/6-medium.jpg",
+				"small": "images/catalog/watches/6-small.jpg"
+			}
 		},
 		{
 			"id": 7,
 			"name": "SISU Bravado A6 Swiss",
 			"desc": "Automatic Men's Watch, Black Dial, Black PVD Bracelet",
 			"price": 221,
-			"image": "images/catalog/watches/7-full.jpg",
 			"rate": 2.6,
-			"stock": 6
+			"stock": 6,
+			"images": {
+				"full": "images/catalog/watches/7-full.jpg",
+				"medium": "images/catalog/watches/7-medium.jpg",
+				"small": "images/catalog/watches/7-small.jpg"
+			}
 		},
 		{
 			"id": 8,
 			"name": "Oris Analog Aviation",
 			"desc": "Big Crown Propilot Black Dial Men's Watch",
 			"price": 7199,
-			"image": "images/catalog/watches/8-full.jpg",
 			"rate": 3.4,
-			"stock": 5
+			"stock": 5,
+			"images": {
+				"full": "images/catalog/watches/8-full.jpg",
+				"medium": "images/catalog/watches/8-medium.jpg",
+				"small": "images/catalog/watches/8-small.jpg"
+			}
 		},
 		{
 			"id": 9,
 			"name": "SEVENFRIDAY Japanese",
 			"desc": "Automatic Black Dial Men's Watch",
 			"price": 3199,
-			"image": "images/catalog/watches/9-full.jpg",
 			"rate": 5.0,
-			"stock": 11
+			"stock": 11,
+			"images": {
+				"full": "images/catalog/watches/9-full.jpg",
+				"medium": "images/catalog/watches/9-medium.jpg",
+				"small": "images/catalog/watches/9-small.jpg"
+			}
 		},
 		{
 			"id": 10,
 			"name": "Alpina Analogue",
 			"desc": "Blue Dial Men's Watch",
 			"price": 8205,
-			"image": "images/catalog/watches/10-full.jpg",
 			"rate": 1.8,
-			"stock": 4
+			"stock": 4,
+			"images": {
+				"full": "images/catalog/watches/10-full.jpg",
+				"medium": "images/catalog/watches/10-medium.jpg",
+				"small": "images/catalog/watches/10-small.jpg"
+			}
 		}
 	]
 }
